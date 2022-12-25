@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">I work on MLOps, machine learning and image processing in healthcare in Turkey.</h3>
+<h3 align="center">I'm a machine learning engineer at healthcare in Turkey. Mostly work on MLOps and Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerferhatt&label=Profile%20views&color=0e75b6&style=flat" alt="omerferhatt" /> </p>
 
