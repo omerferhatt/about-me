@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Nerveblox](www.nerveblox.com)<br>💬 Ask me about **PyTorch, Linux**
+🔭 I’m currently working on [Nerveblox](https://www.nerveblox.com)<br>💬 Ask me about **PyTorch, Linux**
 
 
 ## 🌐 Socials:
